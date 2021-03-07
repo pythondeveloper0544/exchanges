@@ -1,5 +1,4 @@
-## exchanges
-Exchange rates comparison
+## Exchange rates comparison
 
 To run programm:
 >>> streamlit run exchanges.py
